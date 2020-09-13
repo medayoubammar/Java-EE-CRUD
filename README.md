@@ -1,2 +1,3 @@
 # Java-EE-CRUD
-Java EE CRUD small project 
+Java EE CRUD app
+(without controle of inputs)
